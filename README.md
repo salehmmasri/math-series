@@ -11,4 +11,4 @@ ___
 
 full python script, for the tests I used pytest and pywatch.
 
-> [go to PR](https://github.com/salehmmasri/math-series/pull/1)
+> [go to PR](https://github.com/salehmmasri/math-series/pull/2)
